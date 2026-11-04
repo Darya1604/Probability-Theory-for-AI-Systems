@@ -2,4 +2,4 @@
 
 ## Практические задания
 
-* [**Домашняя работа 1**](https://github.com/Darya1604/Probability-Theory-for-AI-Systems/blob/main/Homework1-2.ipynb)
+* [**Домашние работы 1-5**](./Homework1-5)
